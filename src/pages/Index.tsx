@@ -50,7 +50,7 @@ const Index = () => {
 
               <div className="md:w-1/2">
                 <img
-                  src="/placeholder.svg"
+                  src="/cover.webp"
                   alt="PDF Editor Interface"
                   className="rounded-lg shadow-xl"
                 />
